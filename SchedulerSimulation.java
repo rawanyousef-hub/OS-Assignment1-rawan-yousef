@@ -6,7 +6,8 @@ import java.util.Random;
 
 // ANSI Color Codes for enhanced terminal output
 class Colors {
-    int sudentID=123456;
+int sudentID=123456;
+String a="ttt";
     public static final String RESET = "\u001B[0m";
     public static final String BOLD = "\u001B[1m";
     public static final String CYAN = "\u001B[36m";
