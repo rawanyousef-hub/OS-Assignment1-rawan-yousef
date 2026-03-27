@@ -97,17 +97,20 @@ read the code carefully and try to tested calculation
 2 hours 
 ---
 
-### Entry 5 - [Date and Time]
+### Entry 5 - [march 23, 2026, 7:30 PM]
 **What I did**: 
-
+checked the project and make sure all feature are work 
 **Details**: 
-
+ - check all features  (priority, context switch, waiting time)
+- Ran the program more than once
+- Noticed small issues and fixed them
+- Made sure the output looks correct
 **Challenges**: 
-
+some outpot not clear at first 
 **Solution**: 
-
+checked the code again and trie more than one until become clear 
 **Time spent**: 
-
+2:00 houres 
 ---
 
 ### Entry 6 - [Optional - Date and Time]
