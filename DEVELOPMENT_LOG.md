@@ -80,17 +80,21 @@ Time spent:
 
 ---
 
-### Entry 4 - [Date and Time]
+### Entry 4 - [march 22, 2026, 3:30 PM]
 **What I did**: 
-
+feature 3: add waiting time tracking 
 **Details**: 
+- add variable to track
+- use system.currentTimeMillis()
+- calculate waite time to process
+- display waiting time summary
 
 **Challenges**: 
-
+was confusing how calculate waiting time 
 **Solution**: 
-
+read the code carefully and try to tested calculation 
 **Time spent**: 
-
+2 hours 
 ---
 
 ### Entry 5 - [Date and Time]
