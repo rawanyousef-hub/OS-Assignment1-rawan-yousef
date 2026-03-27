@@ -128,10 +128,12 @@ checked the code again and trie more than one until become clear
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+
+**Total time spent on assignment**: [6:15 hours]
 
 **Most challenging part**: 
-
+At the beginning  it was a bit hard to understand how the code works, especially with threads and context switching.
 **Most interesting learning**: 
-
+I liked seeing how the processes run and how the scheduling works step by step.
 **What I would do differently next time**: 
+i  would start earlier and try to understand the code better from the start.
