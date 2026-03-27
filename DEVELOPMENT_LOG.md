@@ -63,7 +63,7 @@ Time spent:
 2 houres
 
 ---
-### Entry 3 - [Date and Time]
+### Entry 3 - [march 21, 2026, 7:00 PM]
 What I did: 
 work on feature 2: count context switch
 Details: 
