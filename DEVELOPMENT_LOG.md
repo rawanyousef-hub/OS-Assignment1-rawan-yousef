@@ -13,12 +13,12 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Example Entry Format:
 
-### Entry 1 - [April 1, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
+### Entry 1 - [april 20, 2026, 4:30 PM]
+**What I did**: start creat 
 
 **Details**: 
-- Created GitHub account with university email
-- Forked the starter repository
+- Created GitHub account with  my university email
+- Forked start repository
 - Changed student ID on line 92 to my actual ID (441234567)
 - Compiled and ran the program successfully
 
@@ -32,42 +32,26 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [Date and Time]
-**What I did**: 
-
+### Entry 1 - [march 20, 2026, 4:30 PM]
+**What I did**: creat githob account 
+dounload vs
 **Details**: 
+- great githob account with uni email .
+- connected vs code with githob
+- update student id in code
 
-**Challenges**: 
+**Challenges**: connected githob with vs code.
 
 **Solution**: 
-
+watch vidoe on youtube how conneted together.
 **Time spent**: 
+45 min.
+---
+
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
-
----
-
-### Entry 3 - [Date and Time]
-**What I did**: 
-
-**Details**: 
-
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+ 
 
 ---
 
