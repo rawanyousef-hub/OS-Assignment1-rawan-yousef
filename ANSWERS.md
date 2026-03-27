@@ -11,7 +11,7 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[Write your answer here. Consider: What is a process? What is a thread? How do they differ in terms of memory, resources, creation overhead? Why are threads more suitable for this simulation?]
+[thread is a small part of a process, while a process is a full program. Threads work inside the same process. They share the same memory, but processes do not. This makes threads faster to use. In this assignment, each process runs as a thread. So they can run together at the same time.]
 
 ---
 
@@ -21,7 +21,7 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[Write your answer here. Describe the specific behavior - where does the process go? When does it run again? Give an example from your actual program output showing a process that was re-queued.]
+[..]
 
 Example from my output:
 ```
