@@ -47,7 +47,20 @@ watch vidoe on youtube how conneted together.
 **Time spent**: 
 45 min.
 ---
-
+### Entry 2 - [march 21, 2026, 1:00 PM]
+What I did: 
+understand the code and start work on feature 1 
+Details: 
+- read process class and schedulersimulation.java
+-  modify schedulersimulation .java
+-  add priority file to process class
+-  display priority
+Challenges: 
+at first the code was confusing about how process work with threads
+Solution: 
+read the code carefully 
+Time spent: 
+2 houres
 
 ---
 
