@@ -63,8 +63,20 @@ Time spent:
 2 houres
 
 ---
-
- 
+### Entry 3 - [Date and Time]
+What I did: 
+work on feature 2: count context switch
+Details: 
+- add static counter variable
+- increment the counter each time a process start
+- display total context switch
+- run the program 
+Challenges: 
+first it wasn't clear how context switch handle in code
+Solution: 
+Read the code step by step and understood when a context switch happens.
+Time spent:
+ 1:30 hours 
 
 ---
 
