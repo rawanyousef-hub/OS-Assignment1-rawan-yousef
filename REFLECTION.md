@@ -9,15 +9,14 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Write your answer here. Discuss specific concepts like thread creation, thread states, how threads execute concurrently, what surprised you, etc.]
-
+  i learned that multithreading allows multiple tasks to run at the same time. it helps programs work faster and more efficiently. i also understood how threads share the CPU. before this assignment, i didn’t really know how threads work in code. now i can see how different parts run together. it also helped me understand scheduling better. overall, it made the idea of parallel work clearer to me.
 ---
 
 ## Question 2: What was the most challenging part of this assignment?
 
 **Your Answer:**
 
-[Describe the specific challenge. Was it understanding the code? Implementing a feature? Using Git? Explain what made it difficult and how it relates to the course concepts.]
+ was understanding the code at the beginning. It was a bit confusing how threads and processes work together. Also, I didn’t really understand when context switching happens. The code had many parts so it took time to get used to it. At first, I didn’t know where to start. But after trying more, it became clearer.
 
 ---
 
@@ -25,17 +24,13 @@ Answer the following questions about your learning experience. Each answer shoul
 
 **Your Answer:**
 
-[Describe your problem-solving approach. Did you read documentation? Ask for help? Debug systematically? What resources did you use? What strategies worked?]
-
----
+ i tried to understand the code step by step. I didn’t rush and focused on one part at a time. I also run the program more than once to see what is happening. When something didn’t work, I checked it again. I also followed the instructions carefully. After some time, things started to make more sense.
 
 ## Question 4: How can you apply multithreading concepts in real-world applications?
 
 **Your Answer:**
 
-[Give specific examples from real applications you use (web browsers, games, mobile apps, etc.). Explain why threads are useful in those scenarios. Connect to what you learned in this assignment.]
-
----
+multithreading is used in many real-life applications. For example, in web servers to handle many users at the same time. It is also used in mobile apps to run things in the background. In games, it helps run different tasks together. It is useful when fast response is needed. It makes programs work better and faster.
 
 ## Additional Reflections (Optional)
 
