@@ -21,15 +21,18 @@ Answer all 4 questions with detailed explanations. Each answer should be **3-5 s
 
 **Your Answer:**
 
-[..]
+[In Round-Robin scheduling, if a process does not finish within its time quantum, it stops and goes back to the end of the ready queue. This lets other processes run before it continues. This way, all processes get a fair chance to use the CPU...]
 
 Example from my output:
 ```
-[Paste a relevant snippet from your program output here showing a process being re-queued]
+[P1 executing quantum [715ms]
+Quantum progress: 100%
+P1 completed quantum 715ms
+Remaining time: 6ms]
 ```
 
 **Explanation of example:**
-[Explain what's happening in the output snippet you pasted]
+[n this example, P1 used all its time quantum but did not finish because it still has 6ms left. So it will go back to the ready queue and wait for its turn again. This shows how the ready queue works in Round-Robin. It helps make sure all processes run fairly and no process takes all the CPU time.]
 
 ---
 
@@ -39,17 +42,17 @@ Example from my output:
 
 **Your Answer:**
 
-[Write your answer here. For each state, explain when P1 enters that state during the simulation. Use your understanding of the code to trace through the lifecycle.]
+In my program, P1 goes through different states while running.at first, P1 is in the New state when it is created but not started yet.then it becomes Runnable after calling Thread.start(), which means it is ready to run. after that, it becomes Running when the CPU starts executing it.Sometimes, P1 goes to Waiting when Thread.sleep() is used, so it pauses for a while.It can also go to Waiting when Thread.join() is used because it waits for another thread. Finally, P1 becomes Terminated when it finishes execution.
 
-1. **New**: [When is P1 in New state?]
+1. **New**: [P1 is in New state when it is created but not started yet.]
 
-2. **Runnable**: [When does P1 become Runnable?]
+2. **Runnable**: [After calling Thread.start(), P1 becomes Runnable and waits for CPU..]
 
-3. **Running**: [When is P1 Running?]
+3. **Running**: [p1 is Running when CPU starts executing it.]
 
-4. **Waiting**: [When/why would P1 be Waiting?]
+4. **Waiting**: [P1 goes to Waiting when Thread.sleep() is used, or when it waits using Thread.join().]
 
-5. **Terminated**: [When is P1 Terminated?]
+5. **Terminated**: [P1 becomes Terminated when it finishes execution.]
 
 ---
 
@@ -59,31 +62,31 @@ Example from my output:
 
 **Your Answer:**
 
-### Example 1: [Name of application/scenario]
+### Example 1: [web server]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[In a web server, many users send requests at the same time, and each one is handled by a thread.]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Round-Robin gives each request a short time, then moves to the next one. This makes it fair and helps users not wait too long.]
 
-### Example 2: [Name of application/scenario]
+### Example 2: [media player]
 
 **Description**: 
-[Describe the real-world scenario or application]
+[in a media player, tasks like audio, screen update, and user input run together.]
 
 **Why Round-Robin works well here**: 
-[Explain why Round-Robin scheduling is suitable. Consider fairness, responsiveness, predictability, etc.]
+[Round-Robin lets each task run for a short time, so everything runs smoothly and the system stays responsive..]
 
 ---
 
 ## Summary
 
 **Key concepts I understood through these questions:**
-1. 
-2. 
-3. 
+1. How Round-Robin scheduling works.
+2. How processes move between states.
+3. How fairness and responsiveness are important in scheduling.
 
 **Concepts I need to study more:**
-1. 
-2. 
+1.  More details about thread synchronization.
+2. How different scheduling algorithms compare
